@@ -3,6 +3,8 @@
 [![Kaggle](https://img.shields.io/badge/run-Kaggle-20BEFF?logo=kaggle)](https://www.kaggle.com/code/boxyml/precision-as-dynamic-training)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21571029.svg)](https://doi.org/10.5281/zenodo.21571029)
 [![License: MIT](https://img.shields.io/badge/code-MIT-green.svg)](LICENSE)
+![Python Versions](https://img.shields.io/badge/Python-3.10%20|%203.11%20|%203.12-3776AB?logo=python&logoColor=white)
+![Tests](https://github.com/AdamBoxy/precision-as-dynamic-training/actions/workflows/tests.yml/badge.svg)
 
 > **Research status:** exploratory hypothesis and reproducible proof of concept. This repository does **not** claim a new state-of-the-art algorithm, production-ready low-precision kernels, or measured hardware savings.
 
