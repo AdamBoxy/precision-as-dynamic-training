@@ -1,0 +1,5 @@
+regime,validation_accuracy_percent,effective_bits
+FP32,96.07,32.00
+Static 8-bit,96.67,8.00
+Adaptive LAPA,96.37,5.28
+Static 4-bit,38.89,4.00

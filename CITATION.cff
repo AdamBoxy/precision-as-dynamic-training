@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite the archived Zenodo research record."
+title: "Precision as a Dynamic Training Resource"
+type: software
+authors:
+  - family-names: "Yates"
+    given-names: "Adam"
+    alias: "BoxyML"
+repository-code: "https://github.com/AdamBoxy/precision-as-dynamic-training"
+url: "https://zenodo.org/records/21571029"
+doi: "10.5281/zenodo.21571029"
+version: "0.1.0"
+date-released: "2026-07-26"
+license: MIT
+keywords:
+  - adaptive precision
+  - mixed precision
+  - quantization
+  - neural network training
+  - reproducible research
