@@ -67,7 +67,6 @@ See [`docs/limitations.md`](docs/limitations.md).
 
 ## Research links
 
-- [Kaggle notebook](https://www.kaggle.com/code/boxyml/precision-as-dynamic-training)
 - [Zenodo record](https://zenodo.org/records/21571029)
 - DOI: [`10.5281/zenodo.21571029`](https://doi.org/10.5281/zenodo.21571029)
 
